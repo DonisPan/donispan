@@ -46,6 +46,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=DonisPan&icon=0&color=0" alt="Profile Views" />
-</p>
+[![](https://visitcount.itsvg.in/api?id=DonisPan&icon=0&color=0)](https://visitcount.itsvg.in)
